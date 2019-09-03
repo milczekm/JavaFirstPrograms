@@ -1,9 +1,7 @@
 package okienka;
 
-
 import java.awt.Color;
 import javax.swing.JOptionPane;
-
 
 public class Powitanie extends javax.swing.JFrame {
 
@@ -15,7 +13,6 @@ public class Powitanie extends javax.swing.JFrame {
         getContentPane().setBackground(Color.PINK);
     }
 
-    
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
